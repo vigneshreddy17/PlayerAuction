@@ -1,0 +1,13 @@
+C:\Users\harry\source\repos\Auction\Auction\bin\Debug\netcoreapp3.1\Auction.exe
+C:\Users\harry\source\repos\Auction\Auction\bin\Debug\netcoreapp3.1\Auction.deps.json
+C:\Users\harry\source\repos\Auction\Auction\bin\Debug\netcoreapp3.1\Auction.runtimeconfig.json
+C:\Users\harry\source\repos\Auction\Auction\bin\Debug\netcoreapp3.1\Auction.runtimeconfig.dev.json
+C:\Users\harry\source\repos\Auction\Auction\bin\Debug\netcoreapp3.1\Auction.dll
+C:\Users\harry\source\repos\Auction\Auction\bin\Debug\netcoreapp3.1\Auction.pdb
+C:\Users\harry\source\repos\Auction\Auction\obj\Debug\netcoreapp3.1\Auction.csprojAssemblyReference.cache
+C:\Users\harry\source\repos\Auction\Auction\obj\Debug\netcoreapp3.1\Auction.AssemblyInfoInputs.cache
+C:\Users\harry\source\repos\Auction\Auction\obj\Debug\netcoreapp3.1\Auction.AssemblyInfo.cs
+C:\Users\harry\source\repos\Auction\Auction\obj\Debug\netcoreapp3.1\Auction.csproj.CoreCompileInputs.cache
+C:\Users\harry\source\repos\Auction\Auction\obj\Debug\netcoreapp3.1\Auction.dll
+C:\Users\harry\source\repos\Auction\Auction\obj\Debug\netcoreapp3.1\Auction.pdb
+C:\Users\harry\source\repos\Auction\Auction\obj\Debug\netcoreapp3.1\Auction.genruntimeconfig.cache
